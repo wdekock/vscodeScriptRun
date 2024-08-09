@@ -1,2 +1,2 @@
 # vscodeScriptRun
-visual studio code extension o run terminal commands within the project
+visual studio code extension to run terminal commands within the project
